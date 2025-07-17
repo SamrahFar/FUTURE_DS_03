@@ -49,7 +49,5 @@ To monitor and evaluate the performance of Facebook Ads using key marketing metr
 ---
 
 ## 📷 Dashboard Preview
-
-https://github.com/SamrahFar/FUTURE_DS_03/tree/e4cd798dfdfa5cd3910c16fa5c07ec090e53d3a2/dashboard
-
+https://github.com/SamrahFar/FUTURE_DS_03/blob/9514cf82ed6d4fd9a2c9334e2d779e62fae24463/visuals/Screenshot%202025-07-14%20015029.png
 
