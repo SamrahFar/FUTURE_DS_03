@@ -34,11 +34,10 @@ This project analyzes **student feedback from 8 academic events** to identify ar
 
 Future_DS_03/
 * dashboard/
-│   ├── powerbi/            # .pbix files
-|
+  ---- powerbi/            # .pbix files----
 * data/
-│   ├── raw/                # Original unprocessed data
-│   ├── processed/          # Cleaned and transformed data
+    * raw/                # Original unprocessed data
+    * processed/          # Cleaned and transformed data
 │
 * visuals/
 │   ├── screenshort/        # Preview of dashboard 
