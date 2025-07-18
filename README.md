@@ -32,15 +32,22 @@ This project analyzes **student feedback from 8 academic events** to identify ar
 ## 📂 Repository Structure
 
 
-FUTURE_DS_03/
-│
-├── data/
-│ └── student_feedback_raw.csv
-├── notebooks/
-│ └── student_feedback_analysis.ipynb
+Future_DS_03/
 ├── dashboard/
-│ └── student_feedback.pbix
-└── README.md
+│   ├── powerbi/            # .pbix files
+|
+├── data/
+│   ├── raw/                # Original unprocessed data
+│   ├── processed/          # Cleaned and transformed data
+│
+├── visuals/
+│   ├── screenshort/        # Preview of dashboard 
+│
+├── notebooks/
+│   ├── exploration.ipynb   # Data exploration and analysis
+│
+└── README.md               # Project overview, usage, and instructions
+
 
 
 
